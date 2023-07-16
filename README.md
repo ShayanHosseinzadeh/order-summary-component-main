@@ -28,7 +28,7 @@ The Mobile View
 ### Links
 
 - Solution URL: [Click to see ](https://www.frontendmentor.io/solutions/order-summary-page-with-cssbootstrap-i9iQaQO6WJ)
-- Live Site URL: [Click to see](hhttps://order-summary-component-main-ten-eta.vercel.app/?vercelToolbarCode=Q8d7m-tVWLgM-gW)
+- Live Site URL: [Click to see](https://order-summary-component-main-ten-eta.vercel.app/?vercelToolbarCode=Q8d7m-tVWLgM-gW)
 
 ## My process
 
