@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;800&display=swap');
+body {
+    background-color: hsl(225, 100%, 94%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Red Hat Display', sans-serif;
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.thecard {
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+.card-header img { 
+    border-radius: 15px;
+    object-fit: fill;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+
+}
+.card-header{
+    padding:0;
+}
+.card-body{
+    text-align: center;
+}
+h2 { 
+    margin:5px 0 20px 0;
+}
+p { 
+    color: gray;
+    margin-bottom: 20px;
+}
+.song-card {
+    background-color: #F8F8FE;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding: 5px 0 5px 0 ;
+}
+.buttons button {
+    margin: 10px 0 10px 0 ;
+}
+.payment-btn { 
+    border-radius: 14px;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 10px;
+    border: 0;
+    box-shadow: 2px 2px 2px 1px gray;
+}
+.cancel-order {
+    background-color: transparent;
+    border: 0;
+    color: gray;
+}
+.payment-btn:hover{
+    background-color: green;
+    transition: 0.4s;
+}
